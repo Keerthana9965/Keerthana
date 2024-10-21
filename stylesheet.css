@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(96, 201, 243);
+    
+    font-family: Verdana;
+}
+
+.plcalculate {
+    text-align: center;
+    background: conic-gradient(from 180deg at 50% 120%, #e85907, #eb5638, #f83fa4, #a87cff, #00c477, #b8b500, #daac00, #deab02); /* made at https://learnui.design/tools/gradient-generator.html */
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border: 2px,solid;
+}
+
+h2 {
+    color: white;
+}
